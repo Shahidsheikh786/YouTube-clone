@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background: black;
+  color: white;
+}
+
+.main-body{
+  height: calc(100vh - 230px);
+}
+
+.react-player {
+  height: 77vh !important;
+  width: 100% !important;
+}
+
